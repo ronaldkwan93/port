@@ -2,14 +2,12 @@
 sectionId: imprint
 ---
 
-#### Information pursuant to § 5 TMG
+#### Information pursuant
 
-YOURNAME<br />
-YOURSTREET<br />
-YOURCITY<br />
-YOURCOUNTRY
+RK Dev.<br />
+Sydney
 
-E-Mail Address: <u>YOURMAIL@DOMAIN.COM</u>
+E-Mail Address: <u>Ronaldkwan93@gmail.com</u>
 
 ---
 
