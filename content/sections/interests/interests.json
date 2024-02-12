@@ -8,13 +8,6 @@
       }
     },
     {
-      "label": "Content via Markdown",
-      "image": {
-        "src": "../../images/notebook.png",
-        "alt": ""
-      }
-    },
-    {
       "label": "Responsive Design",
       "image": {
         "src": "../../images/nail-polish.png",
@@ -22,23 +15,9 @@
       }
     },
     {
-      "label": "Medium Integration",
-      "image": {
-        "src": "../../images/medium.png",
-        "alt": ""
-      }
-    },
-    {
       "label": "Animations",
       "image": {
         "src": "../../images/gem-stone.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "PWA (Offline Support)",
-      "image": {
-        "src": "../../images/mobile-phone.png",
         "alt": ""
       }
     },

@@ -1,14 +1,22 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
+imageSrc: "../../images/profile.png"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+# Hello and Welcome!
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+I'm Ronald, a software developer specialising in full-stack web development. I'm contributing to many local and online businesses in Sydney, focusing on their online presence, doing all the web work so you can focus on building your business. 
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+<!-- Photo by <a href="https://github.com/ronaldkwan93/ToDoApp/assets/132134496/1cd36c5a-a87a-4c3a-885c-23c94c2b1b50" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Ronald Kwan</u></a> -->
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
+# My Expertise
 
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+I'm an advocate for seamless, user-friendly applications and websites. I'm all about understanding your needs and how to work together to present the best platform for your customers.
+
+# Technical Proficiencies
+- Javascript
+- Node.js
+- Express.js
+- React.js
+- Mongo.db
+
