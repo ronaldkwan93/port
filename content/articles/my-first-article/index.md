@@ -10,9 +10,9 @@ categories:
   - "Business"
   - "Website"
 keywords:
-  - "Example"
-  - "Gatsby"
-  - "Markdown"
+  - "webpage"
+  - "optimization"
+  - "growth"
   - "Blog"
 ---
 
