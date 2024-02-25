@@ -2,9 +2,9 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ PICK UP AND PLAY, ALL READY TO GO",
-      "title": "STM studios Supplies Webpage",
-      "description": "Developed a webpage that allowed me to showcase a dance studio installation business that had a long list of products.",
+      "category": "🕹️ Webpage project",
+      "title": "STM studios Supplies",
+      "description": "Showing what STM had in store for everyone in the dance installation business! Used WIX & Wordpress with HTML/CSS customizations.",
       "tags": ["Content Integration", "Ready-2-Deploy"],
       "image": {
         "src": "../../images/STM.JPG",
@@ -24,12 +24,13 @@
     },
     {
       "visible": true,
-      "category": "🧰 EXTENSIVE PLANNING",
-      "title": "SUN WING CUTTING SERVICE",
-      "description": "Showcasing Sunwing's cutting services, the webpage also serves as a valuable resource for clients, offering contact information, request for quote forms, and customer testimonials.",
+      "category": "🧰 REST API",
+      "title": "Finance Funding API",
+      "description": "An application that you can securely track your funding information.
+      Built all endpoints with DRY code, using Flask as a framework and featuring User authentication with JSON web tokens",
       "tags": ["Custom Sections", "Easy-2-Use"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "src": "../../images/login",
         "alt": "Extendable Layout"
       },
       "links": [
