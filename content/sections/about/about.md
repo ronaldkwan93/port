@@ -16,7 +16,7 @@ I'm an advocate for seamless, user-friendly applications and websites. I'm all a
 # Technical Proficiencies
 - Javascript
 - Python
-- API's
+- APIs
 - Frontend
 - Backend
 
