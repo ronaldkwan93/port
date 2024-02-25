@@ -1,6 +1,6 @@
 ---
 imageSrc: "../../images/profile.png"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageAlt: "Profile img"
 ---
 
 # Hello and Welcome!
@@ -15,8 +15,8 @@ I'm an advocate for seamless, user-friendly applications and websites. I'm all a
 
 # Technical Proficiencies
 - Javascript
-- Node.js
-- Express.js
-- React.js
-- Mongo.db
+- Python
+- API's
+- Frontend
+- Backend
 
