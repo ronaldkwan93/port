@@ -26,11 +26,10 @@
       "visible": true,
       "category": "🧰 REST API",
       "title": "Finance Funding API",
-      "description": "An application that you can securely track your funding information.
-      Built all endpoints with DRY code, using Flask as a framework and featuring User authentication with JSON web tokens",
+      "description": "An application that you can securely track your funding information. Built all endpoints with DRY code, using Flask as a framework and featuring User authentication with JSON web tokens",
       "tags": ["Custom Sections", "Easy-2-Use"],
       "image": {
-        "src": "../../images/login",
+        "src": "../../images/login.JPG",
         "alt": "Extendable Layout"
       },
       "links": [
